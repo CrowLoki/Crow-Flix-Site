@@ -1,0 +1,10 @@
+node_modules/
+output/
+.playwright-cli/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db

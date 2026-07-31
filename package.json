@@ -1,0 +1,13 @@
+{
+  "name": "crow-flix-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Official static download and information site for the CrowFlix Windows desktop application",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node scripts/check-site.mjs"
+  }
+}
