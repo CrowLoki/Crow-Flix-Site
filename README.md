@@ -22,9 +22,11 @@ headers, Cloudflare limits, and common credential or workstation-path leaks.
 
 ## Cloudflare Pages
 
-This repository is designed for Cloudflare Pages Git integration:
+This repository is connected directly to Cloudflare Pages through its GitHub
+integration. The production site is
+[crow-flix.pages.dev](https://crow-flix.pages.dev/).
 
-- Project name: `Crow-Flix` (`crow-flix.pages.dev`)
+- Cloudflare project: `crow-flix`
 - Production branch: `main`
 - Framework preset: None
 - Root directory: `/`
